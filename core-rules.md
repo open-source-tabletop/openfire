@@ -1,8 +1,6 @@
 **Open Fire**
 =============
 
-Version: 0.3
-
 ## Introduction
 
 Open Fire is an 'open source' tabletop wargame system that enables players to enact battles from any setting, at any scale. Players use miniatures to represent different fighting forces, taking turns to move and fight with each of them across a tabletop battlefield.
