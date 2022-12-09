@@ -7,12 +7,8 @@ Open Fire is an 'open source' tabletop wargame system that enables players to en
 
 To play a game you need the core rules, which cover the basics mechanics of play, and a game module, which provides the setting, army lists, missions, campaign rules, etc. There are also a set of expansions to the core rules, these are common additions to the core rules which are applicable only to a specific type of game. This allows a game module to simply use the rules and expansions that already exist where possible to simplify the total number of rules required to play.
 
-Open Fire is free to use and adapt for anyone that wishes to make use of the rules.
-
-## [Read the Rules](https://github.com/open-source-tabletop/openfire/blob/main/core-rules.md)
-
-
-
-## [Find modules to play](https://github.com/open-source-tabletop/openfire-game-modules)
+- [View the Core Rules](https://github.com/open-source-tabletop/openfire/blob/main/core-rules.md)
+- [Skirmish Expansion](https://github.com/open-source-tabletop/openfire/blob/main/skirmish-expansion.md)
+- [Find modules to play](https://github.com/open-source-tabletop/openfire-game-modules)
 
 As this game is still actively in development, it may still be feature incomplete and have inconsistencies and errors. Consider joining the development, creating issues to highlight any problems you find, or creating your own game modules to expand the game.
