@@ -1,2 +1,4 @@
-# openfire
-An open source wargaming system
+Open Fire
+=========
+
+### An Open Source Wargaming System
