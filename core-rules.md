@@ -539,4 +539,4 @@ When making an attack with this weapon, any rolls of a 1 cause the weapon to exp
 
 ### Unwieldy
 
-Weapons with this rule suffer -2 to the **battle skill test** when making an attack and may not make free attacks against enemy units that leave engagement range.
+Weapons with this rule suffer -2 to the **battle skill test** when making an attack. and may not make free attacks against enemy units that leave engagement range.
