@@ -461,7 +461,7 @@ Vehicles with this rule may make X additional free manoeuvres during its activat
 
 ### Resilient
 
-This model may re-roll any failed **defence tests** that do not roll a 1.
+This model may re-roll any failed **defence tests** that roll a 1.
 
 ### Rugged
 
@@ -469,7 +469,7 @@ This model ignores the penalty for travelling through **slow** terrain.
 
 ### Skilled
 
-This unit may re-roll any **Battle Skill** test that do not roll a 1.
+This unit may re-roll any **Battle Skill** test that rolls a 1.
 
 ### Skirmishers
 
@@ -539,4 +539,4 @@ When making an attack with this weapon, any rolls of a 1 cause the weapon to exp
 
 ### Unwieldy
 
-Weapons with this rule suffer -2 to the **battle skill test** when making an attack.
+Weapons with this rule suffer -2 to the **battle skill test** when making an attack and may not make free attacks against enemy units that leave engagement range.
