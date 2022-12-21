@@ -512,6 +512,6 @@ Section 5 - Expansions
 
 Expansions are additional rules that are useful for specific types of game but that may not be used in every game module. Each game module will list which expansions are being used. Core expansions are found here:
 
-- [Missions Expansion](#)
-- [Skirmish Expansion](#)
-- [Vehicles Expansion](#)
+- [Missions Expansion](https://github.com/open-source-tabletop/openfire/blob/main/expansion-missions.md)
+- [Skirmish Expansion](https://github.com/open-source-tabletop/openfire/blob/main/expansion-skirmish.md)
+- [Vehicles Expansion](https://github.com/open-source-tabletop/openfire/blob/main/expansion-vehicles.md)
