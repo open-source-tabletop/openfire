@@ -7,7 +7,7 @@ Skirmish is an expansion for Open Fire that provides additional rules suitable f
 
 ## Type Keywords
 
-Skirmish games focus mainly on individual infantry type models and most of the rules only
+Skirmish games focus mainly on individual infantry type models and most of the rules only apply to models with the infantry type.
 
 # Additional Rules
 
@@ -19,35 +19,32 @@ In skirmish games every unit may only contain one model, if you are applying the
 
 ## Advanced Movement
 
+These additional movement rules are available to models with the infantry type.
+
 ### Jumping
 
 Models which wish to move between two areas of terrain at the same height, or to an area 1 height level lower, that is separated by a gap of up to 2 inches may attempt to jump the gap. Move the model to the edge of the terrain you wish to jump from as normal and check to see if the model can make the jump.
 
-Roll a D12 for each inch of distance being jumped (rounding up), if the result is a 1 the model fails the jump and stops it's movement before the gap and it's activation ends.
+Roll a D12 for each full inch of distance being jumped (rounding up), if any of the results are a 1 the model fails the jump and stops it's movement before the gap and it's activation ends immediately.
+
+### Hidden Movement
+
+Models may attempt to move quietly while making the most of any available cover, a model which moves but does not make an advance move or an attack may have a token placed next to it marking it as hidden. Any attacks against this model with an obscured line of sight count as having a blocked line of sight until the model's next activation when the marker is removed. If an enemy model moves within 6 inches of this model it removes the hidden token.
 
 ## Injuries
 
-As models take damage their ability to fight is reduced. In addition to tracking a model's hit points they can also become hurt or wounded You can place a dice beside the model to show this with 1 indicating the model is hurt and 2 indicating it is wounded.
+As infantry type models take damage their ability to fight is reduced. In addition to tracking a model's hit points they can also become hurt or wounded You may place a dice beside the model to show this with 1 indicating the model is hurt and 2 indicating it is wounded.
 
 The effect of each injury is cumulative so a model that is wounded also suffers the penalty for being hurt.
 
 ### Hurt
 
-Models which have been reduced to below half of their starting hit points become hurt this causes them to suffer a -1 to their movement rate battle skill and defence
+Models which have been reduced to below half of their starting hit points become hurt, this causes them to suffer a -1 to their movement rate, skill, and defence attributes.
 
 ### Wounded
 
-Models which are reduced to 1 hit point are become wounded and may not make an attack action if they move. In addition they may not make an advance move during their movement.
+Models which are reduced to 1 hit point are wounded and may not make an attack action if they move. In addition they may not make an advance move during their movement.
 
 ### Killing a Model
 
-Models which are reduced to 0 hit points are not automatically killed and may survive to keep fighting. When a model would lose its last hit point instead make a defence test On a successful test the model is restored to 1 hit point, on a failed test the model is removed as a casualty. 
-
-In addition the defence test suffers a negative modifier equal to any excess damage the model would have suffered beyond losing it's last hit point. A roll of a 
-
-## Attacks
-
-### Additional Modifiers
-
-- A model moving into assault range with a single enemy model, while in it's rear arc, gains +3 to it's battle skill tests.
-- Models which do not move gain +1 to battle skill tests against targets more than 12 inches away.
+Infantry models which are reduced to 0 hit points are not automatically killed and may survive to keep fighting. When a model would lose its last hit point instead make a defence roll: on a successful roll the model is restored to 1 hit point, on a failed roll the model is removed as a casualty.
