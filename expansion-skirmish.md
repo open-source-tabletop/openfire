@@ -1,13 +1,21 @@
-Open Fire Skirmish
-==================
+Open Fire Expansion: Skirmish
+=============================
+
+## About
 
 Skirmish is an expansion for Open Fire that provides additional rules suitable for small scale battles, typically with 5-15 models per army with each acting independently in the fight.
 
+## Type Keywords
+
+Skirmish games focus mainly on individual infantry type models and most of the rules only
+
 # Additional Rules
+
+The following additional rules are used in games with the Skirmish expansion.
 
 ## Units and Models
 
-In skirmish games every unit may only contain one model.
+In skirmish games every unit may only contain one model, if you are applying the skirmish rules to an existing game module simply treat every model as it's own unit after creating your army.
 
 ## Advanced Movement
 
