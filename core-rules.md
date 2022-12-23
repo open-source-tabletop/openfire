@@ -58,7 +58,7 @@ Open Fire is modular in its approach to rules: these core rules provide a founda
 
 Game modules provide information about a setting, unique rules for a game, and most importantly the army lists available for that module. This tells players what forces and miniatures they can choose and how they are represented in the game.
 
-Expansions represent a specific set of additional rules which may not be suitable for every game. This allows game modules to use a set of common components that players are already familiar without reinventing them each time.
+Expansions represent a specific set of additional rules which may not be suitable for every game. This allows game modules to use a set of common components that players are already familiar with without reinventing them each time.
 
 While some of this may sound confusing, in practice it's very simple, you have a set of rules for how to play and a set of rules for what you can play with. Some modules may even combine all the parts that they use into one single reference document.
 
@@ -68,7 +68,7 @@ Open Fire is, at it's core, a miniatures game, though it is very flexible in ter
 
 ## The Battlefield
 
-In order to play a game you are going to need a space to represent your battlefield, and usually some kind of terrain to fill it. Many games can be played on a kithen table though some can require a much larger space to be played, tables up to around 6ft by 4ft being about the largest commonly used. The terrain you need will obviously depend on the game you are playing for it's scale and style but should fill roughly 1/3 of your available space with large and small pieces.
+In order to play a game you are going to need a space to represent your battlefield, and usually some kind of terrain to fill it. Many games can be played on a kitchen table though some can require a much larger space to be played, tables up to around 6ft by 4ft being about the largest commonly used. The terrain you need will obviously depend on the game you are playing for its scale and style but should fill roughly 1/3 of your available space with large and small pieces.
 
 ## Missions
 
@@ -97,7 +97,7 @@ The other type of dice roll that you typically use is called a roll off. Both pl
 
 ## Measuring
 
-You will oftend need to measure distances in Open Fire, when moving a unit or checking the distance between them for making attacks. You will need a ruler marked in inches for this.
+You will often need to measure distances in Open Fire, when moving a unit or checking the distance between them for making attacks. You will need a ruler marked in inches for this.
 
 To measure a distance from a model you measure from the closest point on the base (or footprint) to the closest point on the base of the model or object you are measuring to. You may measure anything at any time so long as doing so does not interfere with something your opponent is doing or unnecessarily slow down the game.
 
@@ -167,7 +167,7 @@ To be in formation all models must be within 4 inches horizontally of the leader
 
 It is often important to know which direction a model is facing, for moving or making attacks, and to know where other models are in relation to it. To this end a model has a forward facing, typically dictated by the direction the miniature itself is facing, and an opposite backward facing. If the forward facing is not obvious you should mark a point on the model's base or agree with your opponent which direction is forward.
 
-Models also divide the area in around them into two zones: a line is drawn through the center of the model at 90 degrees to the forward facing, the area to the front of the model is called the front arc and the area to the back is called the rear arc.
+Models also divide the area around them into two zones: a line is drawn through the centre of the model at 90 degrees to the forward facing, the area to the front of the model is called the front arc and the area to the back is called the rear arc.
 
 A model is within another model's front arc if any part of it's base is within that area, otherwise it is in the rear arc. When dealing with units with multiple models this is calculated using the unit leaders.
 
@@ -235,7 +235,7 @@ The battle stage of the game is where players will have a chance to move and fig
 Each round follows a similar process of steps the players should follow:
 
 1. Roll for initiative.
-2. Alternate activions for units.
+2. Alternate activations for units.
 3. Check for stress.
 4. Remove activation markers.
 
@@ -277,7 +277,7 @@ Some restrictions apply to deploying your models from reserve:
 
 ### Moving into and out of Assault Range
 
-A model may freely move within the assault range of any other model. However, if at any point your unit leaves assault range of that enemy unit it may make a free attack action against your unit. This attack is worked out after you have finished your activation but does not count as the enemy unit being activated. Every model in the enemy unit may make an attack which counts as being in assault range.
+A model may freely move within the assault range of any other model. However, if at any point your unit leaves the assault range of that enemy unit it may make a free attack action against your unit. This attack is worked out after you have finished your activation but does not count as the enemy unit being activated. Every model in the enemy unit may make an attack which counts as being in assault range.
 
 ### Advance Moves
 
@@ -313,7 +313,7 @@ The slow keyword should only be applied to an area that models can move through.
 
 ## Action: Attack
 
-When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units. Before rolling any dice for the attack you need to determine which line of sight your model has to it's target, if they are in range, and are a valid target. You may change which models are targetting which units while checking this but once you start rolling dice for an attack you may no longer change targets.
+When a unit takes an attack action you begin by declaring which models in your unit will target which enemy units. Before rolling any dice for the attack you need to determine which line of sight your model has to its target, if they are in range, and are a valid target. You may change which models are targeting which units while checking this but once you start rolling dice for an attack you may no longer change targets.
 
 ### Line of Sight
 
@@ -333,8 +333,8 @@ For every model in your attacking unit you need to check that it is in range to 
 
 There are some situations that will restrict your choice of target enemy units when making an attack:
 
-- If you are within assault range of one or more enemy unit you may only select those units as your target.
-- If your target unit is within assault range of another friendly unit you may not select that unit as your target unless you are also in assault range of that unit.
+- If you are within the assault range of one or more enemy units you may only select those units as your target.
+- If your target unit is within the assault range of another friendly unit you may not select that unit as your target unless you are also in the assault range of that unit.
 
 ### Assault Weapons
 
@@ -342,7 +342,7 @@ Not all weapons are effective, or easy to use, within assault range: weapons tha
 
 ### Attack Procedure
 
-Once you have determined your targets and line of sights you follow the attack procedure outlined below. You can follow this procedure for each model in your unit or you can combine attacks from model with the same skill value using the same weapon to speed up the process. Repeat the process until you have made all of your attacks.
+Once you have determined your targets and line of sights you follow the attack procedure outlined below. You can follow this procedure for each model in your unit or you can combine attacks from each model with the same skill value using the same weapon to speed up the process. Repeat the process until you have made all of your attacks.
 
 ### Step 1 - Roll Attacks
 
@@ -423,7 +423,7 @@ Units within 6 inches of this unit suffer a -X to command rolls, this is not cum
 
 ### Fearless
 
-This unit may re-roll any failed command rolls.
+This unit may re-roll any failed command rolls that do not roll a 1.
 
 ### Flying
 
@@ -443,7 +443,7 @@ This model ignores the penalty for travelling through slow terrain.
 
 ### Skilled
 
-This unit may re-roll any skill rolss that do not roll a 1.
+This unit may re-roll any skill rolls that do not roll a 1.
 
 ### Skirmishers
 
@@ -512,6 +512,6 @@ Section 5 - Expansions
 
 Expansions are additional rules that are useful for specific types of game but that may not be used in every game module. Each game module will list which expansions are being used. Core expansions are found here:
 
-- [Missions Expansion](https://github.com/open-source-tabletop/openfire/blob/main/expansion-missions.md)
-- [Skirmish Expansion](https://github.com/open-source-tabletop/openfire/blob/main/expansion-skirmish.md)
-- [Vehicles Expansion](https://github.com/open-source-tabletop/openfire/blob/main/expansion-vehicles.md)
+- [Missions Expansion](expansion-missions.md)
+- [Skirmish Expansion](expansion-skirmish.md)
+- [Vehicles Expansion](expansion-vehicles.md)
