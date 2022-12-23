@@ -1,5 +1,5 @@
-Open Fire
-=========
+Open Fire v0.3
+==============
 
 ## Welcome to Open Fire
 

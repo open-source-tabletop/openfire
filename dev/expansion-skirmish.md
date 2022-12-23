@@ -1,6 +1,8 @@
 Open Fire Expansion: Skirmish
 =============================
 
+Version 0.3
+
 ## About
 
 Skirmish is an expansion for Open Fire that provides additional rules suitable for small scale battles, typically with 5-15 models per army with each acting independently in the fight.
