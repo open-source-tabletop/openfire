@@ -14,4 +14,4 @@ The current version of the rules is v0.3
 - [View the Core Rules v0.3](dev/core-rules.md)
 - [Find modules to play](https://github.com/open-source-tabletop/openfire-game-modules)
 
-As this game is still actively in development, it may still be feature incomplete and have inconsistencies and errors. Consider joining the development, creating issues to highlight any problems you find, or creating your own game modules to expand the game. You can read the latest updates for the next version here: [Development branch of Open Fire Core Rules](dev/core-rules.md)
+As this game is still actively in development, it may still be feature incomplete and have inconsistencies and errors. Consider joining the development, creating issues to highlight any problems you find, or creating your own game modules to expand the game.
