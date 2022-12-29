@@ -19,6 +19,10 @@ The following additional rules are used in games with the Skirmish expansion.
 
 In skirmish games every unit may only contain one model, if you are applying the skirmish rules to an existing game module simply treat every model as it's own unit after creating your army.
 
+## Attacks
+
+Unless otherwise specified a model may only target a model for an attack if it is within its front arc.
+
 ## Advanced Movement
 
 These additional movement rules are available to models with the infantry type.
@@ -50,3 +54,13 @@ Models which are reduced to 1 hit point are wounded and may not make an attack a
 ### Killing a Model
 
 Infantry models which are reduced to 0 hit points are not automatically killed and may survive to keep fighting. When a model would lose its last hit point instead make a defence roll: on a successful roll the model is restored to 1 hit point, on a failed roll the model is removed as a casualty.
+
+# Special Rules
+
+The following additional special rules are available for game modules using the Skirmish Rules.
+
+## Weapon Rules
+
+### Any Arc
+
+This weapon may be used to target enemy models in the front and rear arc.

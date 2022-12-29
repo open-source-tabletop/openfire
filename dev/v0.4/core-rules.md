@@ -411,7 +411,7 @@ Some special rules have a value indicated in their title, such as Heavy Armour (
 
 ### Ambush
 
-Instead of deploying as normal, models with this rule may choose to deploy anywhere on the battlefield that is more than 12 inches from an enemy model. If they choose to do so they do not make the free 6 inch movement.
+When deploying, this model may be placed up to 18 inches from their chosen entry point rather than the normal 6 inches.
 
 ### Fast
 
