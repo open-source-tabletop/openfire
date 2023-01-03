@@ -7,7 +7,7 @@ Open Fire is an 'open source' tabletop wargame system that enables players to en
 
 To play a game you need the core rules, which cover the basics mechanics of play, and a game module, which provides the setting, army lists, missions, campaign rules, etc. There are also a set of expansions to the core rules, these are common additions to the core rules which are applicable only to a specific type of game. This allows a game module to simply use the rules and expansions that already exist where possible to simplify the total number of rules required to play.
 
-## View the rules
+## View the Rules
 
 The current version of the rules is v0.3
 
